@@ -1,0 +1,14 @@
+F:\Netcore projects\Main_Task\Main_Task\bin\Debug\net8.0\Main_Task.exe
+F:\Netcore projects\Main_Task\Main_Task\bin\Debug\net8.0\Main_Task.deps.json
+F:\Netcore projects\Main_Task\Main_Task\bin\Debug\net8.0\Main_Task.runtimeconfig.json
+F:\Netcore projects\Main_Task\Main_Task\bin\Debug\net8.0\Main_Task.dll
+F:\Netcore projects\Main_Task\Main_Task\bin\Debug\net8.0\Main_Task.pdb
+F:\Netcore projects\Main_Task\Main_Task\obj\Debug\net8.0\Main_Task.GeneratedMSBuildEditorConfig.editorconfig
+F:\Netcore projects\Main_Task\Main_Task\obj\Debug\net8.0\Main_Task.AssemblyInfoInputs.cache
+F:\Netcore projects\Main_Task\Main_Task\obj\Debug\net8.0\Main_Task.AssemblyInfo.cs
+F:\Netcore projects\Main_Task\Main_Task\obj\Debug\net8.0\Main_Task.csproj.CoreCompileInputs.cache
+F:\Netcore projects\Main_Task\Main_Task\obj\Debug\net8.0\Main_Task.dll
+F:\Netcore projects\Main_Task\Main_Task\obj\Debug\net8.0\refint\Main_Task.dll
+F:\Netcore projects\Main_Task\Main_Task\obj\Debug\net8.0\Main_Task.pdb
+F:\Netcore projects\Main_Task\Main_Task\obj\Debug\net8.0\Main_Task.genruntimeconfig.cache
+F:\Netcore projects\Main_Task\Main_Task\obj\Debug\net8.0\ref\Main_Task.dll
